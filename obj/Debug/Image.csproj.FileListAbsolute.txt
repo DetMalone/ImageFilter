@@ -1,0 +1,8 @@
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\bin\Debug\eurobot.bmp
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\bin\Debug\Recognizer.exe.config
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\bin\Debug\Recognizer.exe
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\bin\Debug\Recognizer.pdb
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\obj\Debug\Image.csprojAssemblyReference.cache
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\obj\Debug\Recognizer.exe
+C:\Users\Malone\Desktop\StudyC#\PhotoProcessor\obj\Debug\Recognizer.pdb
